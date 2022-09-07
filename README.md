@@ -69,7 +69,7 @@
 
 # Support
 
-We have 24/7 free support. Please contact support@cakewallet.com
+We have 24/7 free support. Fail. Please contact support@cakewallet.com
 
 # Build Instructions
 
